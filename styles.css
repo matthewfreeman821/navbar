@@ -7,6 +7,15 @@ nav {
   justify-content: flex-end;
 }
 
+a {
+  font-size: 40px;
+  margin: 20px;
+  text-decoration: none;
+  color: #95A5A6;
+  font-family: raleway;
+  border-bottom: 1px solid #52C9AA;
+}
+
 @media screen and (max-width: 920px) {
   nav {
     justify-content: space-around;
